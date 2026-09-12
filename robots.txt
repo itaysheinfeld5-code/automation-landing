@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itaysheinfeld5-code.github.io/automation-landing/sitemap.xml
